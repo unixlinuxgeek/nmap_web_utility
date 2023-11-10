@@ -1,2 +1,6 @@
 github.com/unixlinuxgeek/coreutil v0.0.0-20230924175005-3478eefda471 h1:NIM3hd84oKDEiSH5Sibh9r1/9am1EQmqljoTuLDftjI=
 github.com/unixlinuxgeek/coreutil v0.0.0-20230924175005-3478eefda471/go.mod h1:H+MyLxCic0Osbzkj91c8lB7jTfpYVDTDDlwsCJY5jJE=
+github.com/unixlinuxgeek/coreutil v0.0.0-20231109201358-4764e2bf3465 h1:7x4MuKVtD52weoSoyjdtX8mBd/bUklCU2u8Sg7QNs2w=
+github.com/unixlinuxgeek/coreutil v0.0.0-20231109201358-4764e2bf3465/go.mod h1:H+MyLxCic0Osbzkj91c8lB7jTfpYVDTDDlwsCJY5jJE=
+github.com/unixlinuxgeek/coreutil v0.0.0-20231110101536-013f80a04f50 h1:5xwjViUgZJyk33RNVzXgNshJGMPQgR7IZQO87BLa744=
+github.com/unixlinuxgeek/coreutil v0.0.0-20231110101536-013f80a04f50/go.mod h1:H+MyLxCic0Osbzkj91c8lB7jTfpYVDTDDlwsCJY5jJE=

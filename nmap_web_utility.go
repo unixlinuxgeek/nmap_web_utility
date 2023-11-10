@@ -6,9 +6,9 @@ import (
 )
 
 func main() {
-	i := coreutil.Installed("nmap1")
+	i := coreutil.Installed("nmap")
 	if i == false {
 		log.Panic("nmap is not installed!!!")
 	}
-
+	coreutil.Execute("nmap", "-sP", "google.com")
 }
